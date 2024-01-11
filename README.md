@@ -1,3 +1,4 @@
+## Horiseon
 This is an application for Horiseon. It was designed to increase the online presence of using a 3 prong approach SEO - Search Engine Optimization, Oneline Reputation Management, and Social Media Marketing. The results of leveraging this application will increase lead generation, brand awareness and finally reduce cost management.
 
 This site is comprised of an index.html file with detailed descriptions for each line of code. Also, for reference there is a style.css file. The html file is broken into class by header, content, benefits, and footer. Also, there are links referenced as well as images files from the image folder.
