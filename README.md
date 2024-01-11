@@ -8,7 +8,7 @@ The css file is comprised of various elements like fonts, margin settings, font 
 These elements combined were designed to provide the user of this application a visually pleasing, user friendly experience. Increasing the chance of repeated usage.
 
 ## Preview of the Horiseon Application
-
+![Horiseon](https://github.com/github-cedsim/Horiseon-Project/assets/126218396/69bada08-9e12-45a2-8f6c-f558d951fba4)
 
 
 
